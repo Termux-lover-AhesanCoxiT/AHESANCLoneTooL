@@ -396,14 +396,10 @@ _    _   _ _____ ____    _    _   _
 /_/   \_\_| |_|_____|____/_/   \_\_| \_| \033
 __________________×______________________
   
-  Owner   :  AHESAN Islam
+  Owner   :  AhesaNCoxiT 
  
-  Github   :  Termux-AHESAN
+  Github   :  Termux-lover-AhesanCoxiT 
 
-  Facebook : Termux Teacher AHESAN
-  
-  Youtube : AHESAN Technology Channel
-  
   Imo Contact : +4593706069
 __________________×______________________\033[1;37m""")
 
