@@ -8,4 +8,4 @@
 - pip install bs4
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AHESANCLoneTooL
 - cd AHESANCLoneTooL 
-- 
+- python AHESAN-dec.py.txt
