@@ -15,7 +15,7 @@
 [![Screenshot-20230324-145123.png](https://i.postimg.cc/Xv37PMN9/Screenshot-20230324-145123.png)](https://postimg.cc/HrZgJhyL)
 
 
-## For Connect Me
+## For Connect Me Simply Click Below Thing
 
 ### <p align="left">
   <a href="https://github.com/Termux-lover-AhesanCoxiT" target="_blank"><img src="https://img.shields.io/badge/Github-It'z--AHESAN-green?style=for-the-badge&logo=github"></a>
