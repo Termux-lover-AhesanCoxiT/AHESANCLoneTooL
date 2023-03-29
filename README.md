@@ -12,7 +12,7 @@
 - python AHESAN-dec.py.txt
 #
 
-[![Screenshot-20230324-145123.png](https://i.postimg.cc/Xv37PMN9/Screenshot-20230324-145123.png)](https://postimg.cc/HrZgJhyL)
+
 
 
 ## For Connect Me Simply Click Below Thing
