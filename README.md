@@ -9,7 +9,7 @@
 - pip install bs4
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AHESANCLoneTooL
 - cd AHESANCLoneTooL 
-- python Ahesan-dec.enc.py
+- python Ahesanclone.py
 #
 
 [![IMG-20230329-161032.jpg](https://i.postimg.cc/vBP0LKVg/IMG-20230329-161032.jpg)](https://postimg.cc/WFkmsXST)
